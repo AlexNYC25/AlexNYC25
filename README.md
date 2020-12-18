@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+
+Currently I'm a developer living in New York City. 
+I'm working on some of my own side projects currently in between my own self study and attending college at Queens College.
+
+⚡ Fun fact: My favorite drink is anything that has caffeine.
 
 <!--
 **AlexNYC25/AlexNYC25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
