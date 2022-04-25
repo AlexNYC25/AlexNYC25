@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-Currently I'm a developer living in New York City. 
-I'm working on some of my own side projects currently in between my own self study and attending college at Queens College.
+Currently I'm a software engineer living in New York City, recently graduated from Queens College with a degree in Computer Science. 
+I'm working on some of my own side projects currently in between my own self study and trying to land my first Software Development job.
 
 ⚡ Fun fact: My favorite drink is anything that has caffeine.
 
