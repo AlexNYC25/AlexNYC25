@@ -1,6 +1,4 @@
-### Hello there 👋
-
-# Hi there, I'm Alex 👋
+# Hello there, I'm Alex 👋
 
 I'm a software developer with professional experience building modern applications across the web and backend stack. I love working with open-source technologies and contributing to tools that make development more accessible and enjoyable for everyone.
 
