@@ -1,7 +1,29 @@
 ### Hello there 👋
 
-Currently I'm a software engineer living in New York City, recently graduated from Queens College with a degree in Computer Science. 
-I'm working on some of my own side projects currently in between my own self study and trying to land my first Software Development job.
+# Hi there, I'm Alex 👋
+
+I'm a software developer with professional experience building modern applications across the web and backend stack. I love working with open-source technologies and contributing to tools that make development more accessible and enjoyable for everyone.
+
+🚀 **Currently Working On**  
+I'm building a self-hosted media server environment for comic books that can be deployed using docker containers on home labs.
+
+⚡ **Stuff I Love**  
+- Open source tools    
+- Clean, maintainable code  
+- Home lab tinkering
+
+![Open Source](https://img.shields.io/badge/Open%20Source❤️-Yes-blue)
+![Docker](https://img.shields.io/badge/Docker-Fan-0db7ed)
+
+🌱 **What I'm Learning**  
+- Improving my typescript knowlege
+- Automating server tasks using bash scripts on linux machines
+- Exploring infrastructure and DevOps tooling to secure machines exposed online.
+
+📌 **Open to New Opportunities**  
+I'm actively looking for a new role where I can contribute, grow, and collaborate on meaningful software projects.
+
+Feel free to reach out!
 
 ⚡ Fun fact: My favorite drink is anything that has caffeine.
 
